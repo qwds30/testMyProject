@@ -2,8 +2,6 @@ bilibili
 aaaaa
 bbbbbb
 horse with no name
-<<<<<<< HEAD
 let's put on
-=======
 sunshine boy
->>>>>>> feature1
+juba
